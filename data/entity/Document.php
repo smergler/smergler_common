@@ -1,6 +1,6 @@
 <?php
 
-namespace app\data\entity;
+namespace smergler_common\data\entity;
 
 
 class Document extends \lithium\data\entity\Document {
